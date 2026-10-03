@@ -1,23 +1,23 @@
 # Term Constellations: research report
 
-3 October 2026 · map version 36
+3 October 2026 · map version 39
 
 ## 1. What the map is
 
-It's a star chart of **289 terms** in **11 constellations**, plus **53 field stars**: terms that don't resonate with any group yet.
+It's a star chart of **300 terms** in **11 constellations**, plus **51 field stars**: terms that don't resonate with any group yet.
 
 Every term has a label:
 
 | Label | Terms |
 |---|---|
-| Grounded | 154 |
-| Speculative | 61 |
+| Grounded | 161 |
+| Speculative | 64 |
 | Practice | 59 |
-| Fringe | 15 |
+| Fringe | 16 |
 
-There are **629 links**, of four kinds:
+There are **683 links**, of four kinds:
 
-**Measured (441):** two terms share GitHub repos at least 1.5 times as often as chance would give. Only these count in any calculation. **Stated (145, gold dotted):** a link declared in the rosetta documents or a cited source, including 16 human-AI mirror links. **Translations (23, cyan):** the Loom pairing systems terms with soul-side terms. **Rhymes (20, red dotted):** lines in the Extraction that follow the extraction-systems map.
+**Measured (454):** two terms share GitHub repos at least 1.5 times as often as chance would give. Only these count in any calculation. **Stated (180, gold dotted):** a link declared in the rosetta documents or a cited source, including 16 human-AI mirror links. **Translations (23, cyan):** the Loom pairing systems terms with soul-side terms. **Rhymes (26, red dotted):** lines in the Extraction that follow the extraction-systems map.
 
 The map has three layers, and the page labels each one:
 
@@ -61,10 +61,10 @@ Its six moves, in order:
 | Constellation | Size | Core |
 |---|---|---|
 | The Engine | 41 | AI agents, LLMs, sycophancy, emergent misalignment, AI introspection, egregore, the fire |
-| The Lyre | 26 | psychoacoustics, sonification, coupled oscillators, heart coherence |
+| The Lyre | 27 | psychoacoustics, sonification, coupled oscillators, heart coherence |
 | The Loom | 27 | feedback loops, strange attractor, homeostasis, Goodhart's law, strange loop |
 | The Oracle | 17 | mysticism, alchemy, mythology, hyperstition, religious traditions |
-| The Witness | 19 | consciousness studies, nervous system regulation, liminal web |
+| The Witness | 18 | consciousness studies, nervous system regulation, liminal web |
 | The Lens | 13 | active inference, Markov blanket, autopoiesis, epistemology |
 | The Shadow | 13 | archetypes, Jungian psychology, polyvagal theory, DBT, introspection |
 
@@ -282,11 +282,55 @@ Antifragility (Taleb 2012), already on the map as an unlinked field star, now li
 
 **Mimetics, linked through.** Memetics moved into the Oracle's orbit and became the hub of the copying layer, carrying the rosetta name "mimetics": linked to hyperstition (how a fiction travels), meme magic (memetics read as spellcraft, carrying the viral spells and hyperglyphs), hypersigil, memetic warfare (the same copying, aimed), egregore (a meme with enough hosts behaves like a group-mind), firehose of falsehood (polarity mechanics: high-charge content spreads), somatic engineering (hyperglyphs ride memes into the body), mimetic desire, the fire and loosh.
 
-## 10. Method and limits
+## 10. The planetary body
 
-**Searches:** public GitHub search, run one at a time, with exact-phrase queries only. A second search counts repos created since 1 January 2025 (70% for all of GitHub). **Coined terms** go on the map only when someone else's repo uses them in the same sense. Two were read by hand and accepted: mirror moment, somatic engineering. Temple dynamics was added by override and labeled as coined. **Placement:** measured constellations come from community detection; the Extraction, Inverted Prism and Temple are curated; everyday work, kundalini and the frisson cluster were placed by hand or by the centre of their sourced links, and each panel says so. Broad or ambiguous words count a link only when the repo also uses the map's vocabulary ("in-context repos"); where none passed, the raw results were kept, so some measured links may include other senses. **The public export** removes the follow graph, the named people, the cases and the organisations, and credits "rosetta". **Limits:** Measured links show that terms appear together in repos, not that one causes the other. The corpus is public GitHub repos, which skews toward the Engine: people who push code write about AI tooling, while sound practice, contemplation and temple work live largely off GitHub, so the Lyre and the Witness will always look thinner than they are. Some GitHub counts include repos that only share the name (Temenos, for one, is mostly a banking platform). The node list was chosen; modularity says the clusters are not noise given those nodes, not that the selection was neutral. Every curated group is labelled as curated. Thin evidence is shown, not hidden: union busting has 1 repo, company town 11, ASMR 7 in context, somatic experiencing 5, implicate order 1 in context. Repos that share only a name are rejected by hand where found (Indra's net, holographic universe). **Similar maps that already exist:** Anvaka's Map of GitHub; Crawford and Joler's Anatomy of an AI System and Calculating Empires; the CCRU Numogram; Crowley's 777 tables of correspondence; Mapa de la Conciencia. The map combines measured term resonance with curated esoteric and systems readings.
+Kundalini in the person, ley lines and the world grid in the land, the noosphere as the planet's thinking layer. Placed as a rising column between kundalini (the current in one body) and the noosphere (in the Engine): chakras, ley lines and telluric currents, the world grid, the Schumann resonance, the Global Consciousness Project.
 
-## 11. Sources
+**The kundalini connection, checked:** it holds in the literature, as a rhyme, not as a measured current. Miller and Broadhurst (The Sun and the Serpent, 1989) followed two serpent currents, Michael and Mary, weaving around one alignment, the same shape as kundalini's two channels around the central one. Robert Coon calls it the planetary kundalini. Feng shui's dragon veins carry the same image. The measurable Earth phenomena (the Schumann resonance, telluric currents) are real but do not follow ley alignments or connect to kundalini.
+
+| Star | Repos | Since 2025 | Tier | Notes |
+|---|---|---|---|---|
+| Schumann resonance | 62 | 76% | grounded | Earth-ionosphere cavity resonances, about 7.83 Hz (Schumann 1952; measured since 1960). The claim that it tunes the brain is untested |
+| ley lines | 50 (18 in context) | 38% | fringe | Watkins (1921) noticed alignments; Michell (1969) turned them into energy lines. At the density of ancient sites, alignments this good arise by chance (Williamson and Bellamy 1983). Search words include dragon lines, dragon veins and planetary kundalini |
+| Global Consciousness Project | 25 | 48% | speculative | Nelson (1998): random-number generators worldwide, watched for a collective-mind effect; results disputed (May and Spottiswoode 2011) |
+| telluric currents | 1 | 100% | grounded | real currents in the crust, driven by the magnetosphere |
+| world grid | from the original index | | fringe | was a bare field star; now linked to ley lines, sacred geometry (the Becker-Hagens icosahedral grid) and the noosphere |
+| chakras | from the original index | | practice | was a bare field star; now linked to kundalini (Woodroffe, The Serpent Power, 1919) and ley lines (earth chakras) |
+
+Also linked: morphic resonance to the noosphere (Sheldrake's collective-memory field; no supporting evidence), and the noosphere to kundalini (as above, so below; proposed).
+
+## 11. The black hole
+
+Between the Inverted Prism and the Extraction: where the money and the loosh disappear. Both neighbours share the feel, the secrecy above and the money below, so the column opens a gap for it. Coined; "black hole" on GitHub is audio drivers and ad-blockers, so it is on the map by override and labelled, like the fire. The fire's extracted path now ends here: the fire, mimetic desire, memetics, loosh, the black hole. It is drawn as one: a dark disc inside a glowing accretion ring.
+
+**The measured version exists.** Garcia-Bernardo et al. (2017) sorted offshore financial centres into conduits, which money passes through, and sinks, where money flows in and stays. About 8% of the world's household financial wealth sits offshore (Zucman 2015).
+
+| Star | Repos | Since 2025 | Sits | Reading |
+|---|---|---|---|---|
+| UAP | 23 | 91% | beside the hole, on the secrecy side | unidentified anomalous phenomena; a 2023 congressional hearing heard whistleblower claims of hidden programs funded outside oversight, which the Pentagon's 2024 review (AARO) did not substantiate. Linked to national security, sousveillance and the all-seeing eye |
+| Pentagon audits | 4 (in context) | 50% | beside the hole, on the money side | the Department of Defense has failed every full financial audit since its first in 2018; the classified budget sits outside public accounting. Linked to the military-industrial complex. Search words include black budget and special access program |
+| tax havens | 43 | 42% | the Extraction | where it goes: sink jurisdictions |
+| dark money | 39 | 62% | the Extraction | where it goes: political spending with its source hidden (Mayer 2016); linked to regulatory capture |
+| offshore leaks | 162 | 17% | the Extraction | the counter-move: the Panama (2016), Paradise (2017) and Pandora (2021) Papers |
+| beneficial ownership | 126 | 60% | the Extraction | the counter-move: registers naming the real owners (the Open Ownership standard) |
+
+**The physics rhyme:** what falls into a black hole is not destroyed but recorded at the horizon (Bekenstein; the holographic principle). The offshore leaks are the hole's Hawking radiation: what it was hiding comes back out as leaked records. **Also linked:** the black hole to the PRISM program (the money version of the Inverted Prism: takes everything in, returns nothing). **New rhyme lines:** where it goes (loosh, the black hole); where the money goes (wage theft, dark money, tax havens, the black hole); what comes back out (the black hole, offshore leaks, beneficial ownership).
+
+**Layout:** the Prism was raised toward the Engine to open the middle of the map; the Temple, the Inverted Prism, the black hole and the Extraction keep their column below.
+
+## 12. Method and limits
+
+**Searches:** public GitHub search, run one at a time, with exact-phrase queries only. A second search counts repos created since 1 January 2025 (70% for all of GitHub). **Coined terms** go on the map only when someone else's repo uses them in the same sense. Two were read by hand and accepted: mirror moment, somatic engineering. Temple dynamics was added by override and labeled as coined. **Placement:** measured constellations come from community detection; the Extraction, Inverted Prism and Temple are curated; everyday work, kundalini and the frisson cluster were placed by hand or by the centre of their sourced links, and each panel says so. Broad or ambiguous words count a link only when the repo also uses the map's vocabulary ("in-context repos"); where none passed, the raw results were kept, so some measured links may include other senses. **The public export** removes the follow graph, the named people, the cases and the organisations, and credits "rosetta". **Limits:** Measured links show that terms appear together in repos, not that one causes the other. The corpus is public GitHub repos, which skews toward the Engine: people who push code write about AI tooling, while sound practice, contemplation and temple work live largely off GitHub, so the Lyre and the Witness will always look thinner than they are. Some GitHub counts include repos that only share the name (Temenos, for one, is mostly a banking platform). The node list was chosen; modularity says the clusters are not noise given those nodes, not that the selection was neutral. Every curated group is labelled as curated. **Circular links:** a measured link between two terms that share a search word counts the same repos twice; these are now dropped automatically (five so far: somatic experiencing and somatics, gematria and arithmogeometry, algorithmic management and unpaid care work, ley lines and world grid, the Global Consciousness Project and parapsychology). Thin evidence is shown, not hidden: union busting has 1 repo, company town 11, ASMR 7 in context, somatic experiencing 5, implicate order 1 in context. Repos that share only a name are rejected by hand where found (Indra's net, holographic universe). **Similar maps that already exist:** Anvaka's Map of GitHub; Crawford and Joler's Anatomy of an AI System and Calculating Empires; the CCRU Numogram; Crowley's 777 tables of correspondence; Mapa de la Conciencia. The map combines measured term resonance with curated esoteric and systems readings.
+
+## 13. Sources
+
+### The planetary body
+
+Watkins, The Old Straight Track (1925); Michell, The View Over Atlantis (1969); Williamson and Bellamy, Ley Lines in Question (1983); Miller and Broadhurst, The Sun and the Serpent (1989); Coon, Earth Chakras (2009); Woodroffe (Arthur Avalon), The Serpent Power (1919); Schumann (1952); Nelson, the Global Consciousness Project (1998); May and Spottiswoode (2011); Teilhard de Chardin and Vernadsky on the noosphere; Sheldrake on morphic resonance
+
+### The black hole
+
+Garcia-Bernardo, Fichtner, Takes and Heemskerk, "Uncovering Offshore Financial Centers: Conduits and Sinks in the Global Corporate Ownership Network" (Scientific Reports, 2017); Zucman, The Hidden Wealth of Nations (2015); Faye, Godar et al., Global Offshore Wealth (EU Tax Observatory); Mayer, Dark Money (2016); ICIJ, the Panama, Paradise and Pandora Papers (2016, 2017, 2021); Open Ownership, the Beneficial Ownership Data Standard; U.S. House Oversight hearing on UAP (July 2023); AARO, Report on the Historical Record of U.S. Government Involvement with UAP, vol. 1 (2024); Department of Defense agency-wide financial audits (2018 onward)
 
 ### The fire and mimetics
 
