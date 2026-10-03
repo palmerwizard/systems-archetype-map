@@ -1,6 +1,6 @@
 # Systems Archetype Map
 
-A star chart of 276 terms in 11 constellations, plus 54 field stars. Mined from 1,142 GitHub repos and grouped by resonance, with new words measured across 7,930 more repos.
+A star chart of 289 terms in 11 constellations, plus 53 field stars. Mined from 1,142 GitHub repos and grouped by resonance, with new words measured across 8,266 more repos.
 
 ## Open it
 
@@ -11,22 +11,26 @@ A star chart of 276 terms in 11 constellations, plus 54 field stars. Mined from 
 
 | Constellation | Terms | What it holds |
 |---|---|---|
-| The Engine | 40 | AI agents and the tooling around them, beside everyday human work |
+| The Engine | 41 | AI agents and the tooling around them, beside everyday human work, and the fire that drives the making |
 | The Lyre | 26 | sound, vibration and geometry |
 | The Loom | 27 | cybernetics, systems and emergence |
-| The Oracle | 16 | divination, symbol and the mystic traditions |
+| The Oracle | 17 | divination, symbol and the mystic traditions |
 | The Witness | 19 | consciousness, meditation and awakening |
 | The Lens | 13 | mathematics, active inference and how minds model the world |
 | The Shadow | 13 | Jungian depth psychology |
-| The Prism | 5 | interoception, metacognition, anti-deskilling, mirror moment |
-| The Extraction | 29 | the extraction playbook: six moves, what gets taken, counter-moves |
+| The Prism | 7 | interoception, metacognition, anti-deskilling, mirror moment, post-traumatic growth, antifragility |
+| The Extraction | 30 | the extraction playbook: six moves, what gets taken, counter-moves |
 | The Inverted Prism | 8 | the aggregate observer: takes in all the light, returns none |
 | The Temple | 12 | groups as psychic structure, where the mythic and systems layers meet |
-| Field stars | 54 | terms that resonate with nothing yet |
+| Field stars | 53 | terms that resonate with nothing yet |
 
 ## New this round
 
-Everyday human work joined the Engine beside the AI vocabulary, and labour extraction joined the Extraction, each paired by a Human ↔ AI mirror link. Two new paths, human (from service work) and AI (from large language models), end at Jung's transcendent function. The CCRU's numogram, syzygy, gematria, desiring-machines, hypersigil and meme magic now orbit the Oracle beside hyperstition. The burning of Alexandria (the fire) and loosh (the harvest) joined the Extraction. Frisson was re-placed as a symbol creating feedback in the nervous system, with kundalini, somatic engineering, ASMR, somatic experiencing and neuromarketing around it. Coined names without outside matches now ride on the star they name as rosetta names.
+The fire (also the spark, the flame) joined the Engine: the maker's heat, adversity, frisson and abstraction transmuted into making. Two paths leave it. Transmuted: post-traumatic growth, the fire, frisson, metacognition, the transcendent function. Extracted: the fire, mimetic desire, memetics, loosh. Around it: tummo (the inner fire, beside kundalini), calcination (alchemy's first fire), post-traumatic growth and antifragility (both measured into the Prism), and memetic warfare in the Extraction. Memetics is now the hub of the mimetics web, linked to hyperstition, meme magic, hypersigil, memetic warfare and egregore.
+
+Also this round: the holographic principle became a hub at the centre of the map, inside the star just right of the Prism, with its family around it: AdS/CFT, the Bekenstein bound, it from bit, Bohm's implicate order, Talbot's holographic universe, holographic reduced representations and Indra's net. Its sourced links reach six constellations, from the Markov blanket in the Lens (the boundary as a holographic screen) to vector-symbolic AI in the Engine. On narrow screens the map now zooms far enough for star names to appear.
+
+Earlier this round: everyday human work joined the Engine beside the AI vocabulary, and labour extraction joined the Extraction, each paired by a Human ↔ AI mirror link. Two new paths, human (from service work) and AI (from large language models), end at Jung's transcendent function. The CCRU's numogram, syzygy, gematria, desiring-machines, hypersigil and meme magic now orbit the Oracle beside hyperstition. The burning of Alexandria (the fire) and loosh (the harvest) joined the Extraction. Frisson was re-placed as a symbol creating feedback in the nervous system, with kundalini, somatic engineering, ASMR, somatic experiencing and neuromarketing around it. Coined names without outside matches now ride on the star they name as rosetta names.
 
 ## How to read it
 
@@ -39,7 +43,7 @@ Everyday human work joined the Engine beside the AI vocabulary, and labour extra
 
 ## Method
 
-Terms were extracted from READMEs and docs across 1,142 public repos, then clustered by co-occurrence measured against chance (modularity 0.659). New words were measured across 7,930 more repos. Curated constellations (the Extraction, the Inverted Prism, the Temple) are labeled as curated. Coined terms appear only when someone else's repo uses them in the same sense, with labeled exceptions. The full method, layers and sources are in `research-report.md`. Snapshots go stale; re-mining on a cadence is what keeps a map like this live.
+Terms were extracted from READMEs and docs across 1,142 public repos, then clustered by co-occurrence measured against chance (modularity 0.659). New words were measured across 8,266 more repos. Curated constellations (the Extraction, the Inverted Prism, the Temple) are labeled as curated. Coined terms appear only when someone else's repo uses them in the same sense, with labeled exceptions. The full method, layers and sources are in `research-report.md`. Snapshots go stale; re-mining on a cadence is what keeps a map like this live.
 
 ## Files
 
