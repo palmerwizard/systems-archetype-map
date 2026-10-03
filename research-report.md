@@ -1,10 +1,10 @@
 # Term Constellations: research report
 
-3 October 2026 · map version 23
+3 October 2026 · map version 29
 
 ## 1. What the map is
 
-It's a star chart of **245 terms** in **11 constellations**, plus **53 field stars**: terms that don't resonate with any group yet.
+It's a star chart of **263 terms** in **11 constellations**, plus **53 field stars**: terms that don't resonate with any group yet.
 
 Every term has a label:
 
@@ -15,9 +15,9 @@ Every term has a label:
 | Practice | 49 |
 | Fringe | 13 |
 
-There are **484 links**, of four kinds:
+There are **500 links**, of four kinds:
 
-**Measured (391):** two terms share GitHub repos at least 1.5 times as often as chance would give. Only these count in any calculation. **Stated (55, gold dotted):** a link declared in the rosetta documents or a cited source. **Translations (23, cyan):** the Loom pairing systems terms with soul-side terms. **Rhymes (15, red dotted):** lines in the Extraction that follow the extraction-systems map.
+**Measured (391):** two terms share GitHub repos at least 1.5 times as often as chance would give. Only these count in any calculation. **Stated (71, gold dotted):** a link declared in the rosetta documents or a cited source, including 16 new human-AI mirror links. **Translations (23, cyan):** the Loom pairing systems terms with soul-side terms. **Rhymes (15, red dotted):** lines in the Extraction that follow the extraction-systems map.
 
 The map has three layers, and the page labels each one:
 
@@ -60,7 +60,7 @@ Its six moves, in order:
 
 | Constellation | Size | Core |
 |---|---|---|
-| The Engine | 31 | AI agents, LLMs, sycophancy, emergent misalignment, AI introspection, egregore |
+| The Engine | 39 | AI agents, LLMs, sycophancy, emergent misalignment, AI introspection, egregore |
 | The Lyre | 26 | psychoacoustics, sonification, coupled oscillators, heart coherence |
 | The Loom | 26 | feedback loops, strange attractor, homeostasis, Goodhart's law, strange loop |
 | The Oracle | 17 | mysticism, alchemy, mythology, hyperstition, religious traditions |
@@ -78,11 +78,74 @@ There are six branches: integration; failure, which leads to empathic distress f
 
 Grounding: Singer and Klimecki on empathic distress vs compassion; Hendin and Cheek's Hypersensitive Narcissism Scale; Wetzel et al. on narcissism declining with age; Kohut's transformations of narcissism; Paulhus and Williams's Dark Triad.
 
-## 4. Method and limits
+## 4. The human side
+
+The Engine was almost entirely AI vocabulary; the Extraction mostly platform-era terms. This update adds the human counterparts: 8 everyday jobs in the Engine, 9 labour-extraction terms in the Extraction. 245 to 263 terms.
+
+**Everyday jobs in the Engine.** Placed by hand next to the AI makers they mirror. GitHub repos by exact-phrase search; "since 2025" is the share created from January 2025 on, against 70% for all of GitHub.
+
+| Term | Repos | Since 2025 | AI mirror |
+|---|---|---|---|
+| care work | 798 | 75% | AI companionship |
+| teaching | 87,402 | 42% | RLHF alternatives |
+| apprenticeship | 18,323 | 48% | agent skills |
+| craftsmanship | 2,872 | 65% | vibe coding |
+| service work | 28,175 | 54% | sycophancy |
+| knowledge work | 1,147 | 91% | large language models |
+| management | 862 | 39% | AI agents |
+| skilled trades | 128 | 80% | embodied cognition |
+
+Knowledge work (91%) and skilled trades (80%) outgrow GitHub overall; teaching (42%), management (39%) and apprenticeship (48%) are older, steadier vocabulary. Teaching's 87,402 is mostly course material: raw counts are noise. All pairings proposed.
+
+**Labour extraction in the Extraction.** Placed by rhyme with the extraction-systems map's six moves.
+
+| Term | Rhymes with | Repos | Since 2025 |
+|---|---|---|---|
+| wage theft | what gets taken: time and pay | 57 | 40% |
+| company town | move 2: wages flow back as rent | 11 | 55% |
+| non-compete agreements | move 2: switching costs on a person | 44 | 55% |
+| bullshit jobs | move 3: perform transparency as work | 13 | 38% |
+| union busting | move 6: atomize the watchers | 1 | 0% |
+| burnout | what gets taken from the maker | 6,596 | 74% |
+| precarious work | cost and risk pushed onto the worker | 38 | 58% |
+| unpaid care work | what gets taken without a name | — | 59% |
+| labor unions | the counter-move: workers who compound | 201 | 37% |
+| bossware | folded into algorithmic management (move 5) | 523 | 63% |
+
+Bullshit jobs is labelled speculative: later surveys found far fewer pointless jobs than Graeber claimed. Thin evidence is shown, not hidden: union busting sits on a single repo because the move matters.
+
+**Mirror links.** 16 human to AI pairings, all proposed, gold dotted:
+
+| Human | AI | Shared move |
+|---|---|---|
+| care work | AI companionship | caring presence, from a person or a system |
+| teaching | RLHF alternatives | shaping a learner through feedback |
+| apprenticeship | agent skills | skill passed on by doing |
+| craftsmanship | vibe coding | mastery for its own sake vs building by feel at speed |
+| service work | sycophancy | "the customer is always right" |
+| emotional labor | sycophancy | performed warmth the job requires; agreeableness learned from approval |
+| knowledge work | large language models | thinking as the product |
+| management | AI agents | directing work |
+| wage theft | surveillance capitalism | hours taken unpaid; behaviour taken unpaid |
+| non-compete agreements | technofeudalism | lock-in on a worker; lock-in on a user |
+| labor unions | platform cooperativism | the workers' counter-move and its platform form |
+| bullshit jobs | ethics washing | performing the work instead of doing it |
+| union busting | chilling effect | workers kept quiet and kept apart |
+| burnout | empathic distress | feeling everything and processing nothing, on the job |
+| unpaid care work | care work | the same work, paid or taken |
+| skilled trades | embodied cognition | knowing in the hands |
+
+**Display.** Human-side terms show a green HUMAN tag; core AI terms a violet AI tag. RESEARCH, ROSETTA and PROPOSED mark where each claim comes from. **Method, this update:** placement curated; links still measured from shared repos; broad words (teaching, burnout, management) count a link only when the repo also uses the map's vocabulary.
+
+## 5. Method and limits
 
 **Searches:** public GitHub search, run one at a time, with exact-phrase queries only. **Coined terms** go on the map only when someone else's repo uses them in the same sense. The one exception is temple dynamics, added by override and labeled as coined. **The public export** removes the follow graph, the named people, the cases and the organisations, and credits "rosetta". **Limits:** Measured links show that terms appear together in repos, not that one causes the other. The corpus is public GitHub repos, which skews toward the Engine: people who push code write about AI tooling, while sound practice, contemplation and temple work live largely off GitHub, so the Lyre and the Witness will always look thinner than they are. Some GitHub counts include repos that only share the name (Temenos, for one, is mostly a banking platform). The node list was chosen; modularity says the clusters are not noise given those nodes, not that the selection was neutral. Every curated group is labelled as curated. **Similar maps that already exist:** Anvaka's Map of GitHub; Crawford and Joler's Anatomy of an AI System and Calculating Empires; the CCRU Numogram; Crowley's 777 tables of correspondence; Mapa de la Conciencia. The map combines measured term resonance with curated esoteric and systems readings.
 
-## 5. Sources
+## 6. Sources
+
+### Work and labour
+
+Hochschild, The Managed Heart (1983); Hochschild with Machung, The Second Shift (1989); Drucker, Landmarks of Tomorrow (1959); Sennett, The Craftsman (2008); Standing, The Precariat (2011); Graeber, Bullshit Jobs (2018); Soffia, Wood and Burchell, "Alienation Is Not 'Bullshit'" (2022); WHO, Burn-out an "occupational phenomenon" (2019); FTC Non-Compete Clause Rule (2024), set aside in Ryan LLC v. FTC (2024); Hardy Green, The Company Town (2010); Logan, "The Union Avoidance Industry" (2006); EFF on bossware (2020); Sharma et al., Towards Understanding Sycophancy in Language Models (2023); Greenblatt et al., Alignment faking (2024); Lindsey, Emergent introspective awareness (2025); Singer and Klimecki, Empathy and compassion (2014)
 
 ### Empath, narcissism, trajectories
 
