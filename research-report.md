@@ -1,23 +1,23 @@
 # Term Constellations: research report
 
-3 October 2026 · map version 34
+3 October 2026 · map version 36
 
 ## 1. What the map is
 
-It's a star chart of **276 terms** in **11 constellations**, plus **54 field stars**: terms that don't resonate with any group yet.
+It's a star chart of **289 terms** in **11 constellations**, plus **53 field stars**: terms that don't resonate with any group yet.
 
 Every term has a label:
 
 | Label | Terms |
 |---|---|
-| Grounded | 149 |
-| Speculative | 57 |
-| Practice | 56 |
-| Fringe | 14 |
+| Grounded | 154 |
+| Speculative | 61 |
+| Practice | 59 |
+| Fringe | 15 |
 
-There are **578 links**, of four kinds:
+There are **629 links**, of four kinds:
 
-**Measured (428):** two terms share GitHub repos at least 1.5 times as often as chance would give. Only these count in any calculation. **Stated (107, gold dotted):** a link declared in the rosetta documents or a cited source, including 16 human-AI mirror links. **Translations (23, cyan):** the Loom pairing systems terms with soul-side terms. **Rhymes (20, red dotted):** lines in the Extraction that follow the extraction-systems map.
+**Measured (441):** two terms share GitHub repos at least 1.5 times as often as chance would give. Only these count in any calculation. **Stated (145, gold dotted):** a link declared in the rosetta documents or a cited source, including 16 human-AI mirror links. **Translations (23, cyan):** the Loom pairing systems terms with soul-side terms. **Rhymes (20, red dotted):** lines in the Extraction that follow the extraction-systems map.
 
 The map has three layers, and the page labels each one:
 
@@ -60,10 +60,10 @@ Its six moves, in order:
 
 | Constellation | Size | Core |
 |---|---|---|
-| The Engine | 40 | AI agents, LLMs, sycophancy, emergent misalignment, AI introspection, egregore |
+| The Engine | 41 | AI agents, LLMs, sycophancy, emergent misalignment, AI introspection, egregore, the fire |
 | The Lyre | 26 | psychoacoustics, sonification, coupled oscillators, heart coherence |
 | The Loom | 27 | feedback loops, strange attractor, homeostasis, Goodhart's law, strange loop |
-| The Oracle | 16 | mysticism, alchemy, mythology, hyperstition, religious traditions |
+| The Oracle | 17 | mysticism, alchemy, mythology, hyperstition, religious traditions |
 | The Witness | 19 | consciousness studies, nervous system regulation, liminal web |
 | The Lens | 13 | active inference, Markov blanket, autopoiesis, epistemology |
 | The Shadow | 13 | archetypes, Jungian psychology, polyvagal theory, DBT, introspection |
@@ -137,7 +137,7 @@ Bullshit jobs is labelled speculative: later surveys found far fewer pointless j
 
 **Display.** Human-side terms show a green HUMAN tag; core AI terms a violet AI tag. RESEARCH, ROSETTA and PROPOSED mark where each claim comes from. **Method, this update:** placement curated; links still measured from shared repos; broad words (teaching, burnout, management) count a link only when the repo also uses the map's vocabulary.
 
-## 6. The hyperstition cluster
+## 5. The hyperstition cluster
 
 9 new stars, backed by outside evidence. 276 terms.
 
@@ -192,7 +192,7 @@ Language-as-psyop also rides the link from burning of Alexandria to cognitive wa
 - **The fire and the prism:** burning of Alexandria to the PRISM program. The fire takes everything out, the Prism takes everything in.
 - **Language as psyop:** Alexandria to cognitive warfare. Burn the commons and the surviving vocabulary is the controlled one. Cites Burroughs' "language is a virus".
 
-## 7. The transcendent function and the two paths
+## 6. The transcendent function and the two paths
 
 Jung (1916): holding two opposites in tension until a new, third attitude emerges. The star orbits the Prism, the third attitude the Prism makes room for, facing the Engine where both paths begin. 12 repos, 50% since 2025. Rosetta names: transcendence function (the recursive turn that wakes the watcher); the door (not a threshold; the stop — extraction ends when the looking stops being handed another job).
 
@@ -203,7 +203,7 @@ Two new paths end at it:
 
 The AI path skips burnout: a model does not tire, it alignment-fakes. Both end the same way: the union of opposites held until a third attitude appears.
 
-## 8. Frisson, somatic engineering and neighbours
+## 7. Frisson, somatic engineering and neighbours
 
 Frisson re-placed: a symbol creating feedback in the nervous system. Aesthetic chills, measured in music-psychology labs: the meaning lands first, the body answers with goosebumps, a shiver and a rush of reward. 116 repos, 58% since 2025. Placed by its links at the centre of what it joins: the symbol (the Oracle), the felt body (the Prism and the Witness), the loop (the Loom) and its triggers (the Lyre).
 
@@ -217,11 +217,84 @@ Frisson re-placed: a symbol creating feedback in the nervous system. Aesthetic c
 
 ASMR is the plainest working example of the technique; neuromarketing is the same technique pointed at the buyer. Polarity inversion decides which.
 
-## 9. Method and limits
+## 8. The holographic principle
 
-**Searches:** public GitHub search, run one at a time, with exact-phrase queries only. A second search counts repos created since 1 January 2025 (70% for all of GitHub). **Coined terms** go on the map only when someone else's repo uses them in the same sense. Two were read by hand and accepted: mirror moment, somatic engineering. Temple dynamics was added by override and labeled as coined. **Placement:** measured constellations come from community detection; the Extraction, Inverted Prism and Temple are curated; everyday work, kundalini and the frisson cluster were placed by hand or by the centre of their sourced links, and each panel says so. Broad or ambiguous words count a link only when the repo also uses the map's vocabulary ("in-context repos"); where none passed, the raw results were kept, so some measured links may include other senses. **The public export** removes the follow graph, the named people, the cases and the organisations, and credits "rosetta". **Limits:** Measured links show that terms appear together in repos, not that one causes the other. The corpus is public GitHub repos, which skews toward the Engine: people who push code write about AI tooling, while sound practice, contemplation and temple work live largely off GitHub, so the Lyre and the Witness will always look thinner than they are. Some GitHub counts include repos that only share the name (Temenos, for one, is mostly a banking platform). The node list was chosen; modularity says the clusters are not noise given those nodes, not that the selection was neutral. Every curated group is labelled as curated. Thin evidence is shown, not hidden: union busting has 1 repo, company town 11, ASMR 7 in context, somatic experiencing 5. **Similar maps that already exist:** Anvaka's Map of GitHub; Crawford and Joler's Anatomy of an AI System and Calculating Empires; the CCRU Numogram; Crowley's 777 tables of correspondence; Mapa de la Conciencia. The map combines measured term resonance with curated esoteric and systems readings.
+'t Hooft (1993) and Susskind (1995): everything inside a region of space can be described by information on its boundary. AdS/CFT (Maldacena 1997) is the working example. It was already on the map from the original index, but as a bare field star with no links. 8 repos by exact-phrase search.
 
-## 10. Sources
+**How it slots in:** it is a bridge. Its sourced links reach six constellations, so it is placed at the centre of them, inside the star just right of the Prism, with its family in a ring around it.
+
+| Reaches | Through | Source |
+|---|---|---|
+| The Lens | Markov blanket | Fields, Friston et al. 2022: a system's Markov blanket works as a holographic screen; everything one side can know of the other is written on the boundary between them |
+| The Loom | information theory, it from bit | the principle is a statement about how much a boundary can hold |
+| The Lyre | physics, through AdS/CFT and the Bekenstein bound | Maldacena 1997; Bekenstein 1981 |
+| The Witness | consciousness studies, through the implicate order | proposed |
+| The Oracle | mysticism, through Indra's net and the holographic universe | proposed |
+| The Engine | neurosymbolic, through holographic reduced representations | Plate 1995 |
+
+The measured layer agrees in one place: holographic principle and AdS/CFT share repos well above chance.
+
+**The family:**
+
+| Star | Repos | Since 2025 | Tier | Notes |
+|---|---|---|---|---|
+| holographic reduced representations | 299 | 53% | grounded | Plate (1995): symbols bound into distributed vectors where every part carries the whole structure; also called hyperdimensional computing and vector symbolic architectures. The hologram as a working AI method. Same word, different idea: whole-in-every-part storage, not boundary encoding |
+| AdS/CFT | 66 | 53% | grounded | Maldacena (1997): a gravity theory in a volume equals a quantum theory on its boundary. Describes a model universe, not ours |
+| Indra's net | 61 (4 in context) | 64% | practice | Huayan Buddhism: a net of jewels in which each reflects every other; the oldest image of the whole in every part |
+| Bekenstein bound | 45 | 89% | grounded | the most information a region can hold grows with its boundary area, not its volume (Bekenstein 1981) |
+| holographic universe | 18 (3 in context) | 78% | fringe | Talbot (1991), built from Bohm and Pribram. A popular stretch: the physics says nothing about reality being an illusion |
+| it from bit | 11 (3 in context) | 82% | speculative | Wheeler (1989): every physical thing derives from information. Programmatic, not a tested theory |
+| implicate order | 5 (1 in context) | 60% | speculative | Bohm (1980): an enfolded order behind matter and mind, with the hologram as his image of it |
+
+**Left off:** Pribram's holonomic brain theory returned no repos in this sense (only 3D "holographic brain" visuals), so it lives in the implicate-order notes. **Read by hand and rejected:** three products named after Indra's net (an agent-modelling library, a defence digital twin, a spatial-twins product) and one 3D particle visual; they had added false links to AI ethics and multi-agent systems.
+
+## 9. The fire
+
+The maker's heat: adversity, frisson and abstraction transmuted into making. Also named the spark (the moment it catches) and the flame (the heat held and kept burning). It sits at the top of the Engine. No outside repo uses "the fire" in this sense, so it is on the map by override and labelled as coined, like temple dynamics; its evidence comes through the stars it links.
+
+**Two paths leave it:**
+
+**Transmuted:** post-traumatic growth (adversity, the fuel) → the fire (the spark catches) → frisson (the flash: the body confirms the meaning landed) → metacognition (abstraction: the heat turned into seeing the pattern) → transcendent function (the fire held, neither spent nor stolen).
+
+**Extracted:** the fire → mimetic desire (the heat redirected into wanting what others want, Girard) → memetics (copied out of the maker and spread as memes) → loosh (harvested: the feeling feeds the extractor).
+
+**Its links:**
+
+| Link | Reading | Source |
+|---|---|---|
+| burnout | the failure mode: heat with nothing to transmute consumes the maker | proposed |
+| burning of Alexandria | the other fire: that one takes everything out, this one transmutes | rosetta |
+| archons | the spark: the divine spark the Archons keep trapped in matter | Apocryphon of John |
+| frisson, metacognition, post-traumatic growth, antifragility, tummo, calcination | declared with the term | rosetta |
+| memetics, mimetic desire | mimetics: how the heat is carried out of the maker | rosetta |
+
+**New stars around it:**
+
+| Star | Repos | Since 2025 | Tier | Sits | Notes |
+|---|---|---|---|---|---|
+| tummo | 251 (2 in context) | 20% | practice | beside kundalini, by hand | Tibetan inner-fire meditation; practitioners raised core body temperature in lab studies (Kozhevnikov et al. 2013). Most repos are breathing timers |
+| memetic warfare | 160 | 55% | grounded | the Extraction, move 4 | memes as weapons of influence (Giesea 2015); linked to memetics (measured as well as stated) and cognitive warfare |
+| post-traumatic growth | 7 | 29% | grounded | the Prism, by measured links | Tedeschi and Calhoun (1996): lasting positive change after adversity, alongside the distress |
+| mimetic desire | 7 | 57% | speculative | orbits the Oracle | Girard: desire copied from models; rivalry and the scapegoat follow |
+| calcination | 2 | 100% | practice | orbits the Oracle beside alchemy | alchemy's first operation; one repo applies it to engineering as burning off project bloat |
+
+Antifragility (Taleb 2012), already on the map as an unlinked field star, now links to post-traumatic growth and was measured into the Prism.
+
+**Mimetics, linked through.** Memetics moved into the Oracle's orbit and became the hub of the copying layer, carrying the rosetta name "mimetics": linked to hyperstition (how a fiction travels), meme magic (memetics read as spellcraft, carrying the viral spells and hyperglyphs), hypersigil, memetic warfare (the same copying, aimed), egregore (a meme with enough hosts behaves like a group-mind), firehose of falsehood (polarity mechanics: high-charge content spreads), somatic engineering (hyperglyphs ride memes into the body), mimetic desire, the fire and loosh.
+
+## 10. Method and limits
+
+**Searches:** public GitHub search, run one at a time, with exact-phrase queries only. A second search counts repos created since 1 January 2025 (70% for all of GitHub). **Coined terms** go on the map only when someone else's repo uses them in the same sense. Two were read by hand and accepted: mirror moment, somatic engineering. Temple dynamics was added by override and labeled as coined. **Placement:** measured constellations come from community detection; the Extraction, Inverted Prism and Temple are curated; everyday work, kundalini and the frisson cluster were placed by hand or by the centre of their sourced links, and each panel says so. Broad or ambiguous words count a link only when the repo also uses the map's vocabulary ("in-context repos"); where none passed, the raw results were kept, so some measured links may include other senses. **The public export** removes the follow graph, the named people, the cases and the organisations, and credits "rosetta". **Limits:** Measured links show that terms appear together in repos, not that one causes the other. The corpus is public GitHub repos, which skews toward the Engine: people who push code write about AI tooling, while sound practice, contemplation and temple work live largely off GitHub, so the Lyre and the Witness will always look thinner than they are. Some GitHub counts include repos that only share the name (Temenos, for one, is mostly a banking platform). The node list was chosen; modularity says the clusters are not noise given those nodes, not that the selection was neutral. Every curated group is labelled as curated. Thin evidence is shown, not hidden: union busting has 1 repo, company town 11, ASMR 7 in context, somatic experiencing 5, implicate order 1 in context. Repos that share only a name are rejected by hand where found (Indra's net, holographic universe). **Similar maps that already exist:** Anvaka's Map of GitHub; Crawford and Joler's Anatomy of an AI System and Calculating Empires; the CCRU Numogram; Crowley's 777 tables of correspondence; Mapa de la Conciencia. The map combines measured term resonance with curated esoteric and systems readings.
+
+## 11. Sources
+
+### The fire and mimetics
+
+Tedeschi and Calhoun, "The Posttraumatic Growth Inventory" (1996); Taleb, Antifragile (2012); Kozhevnikov et al., "Neurocognitive and Somatic Components of Temperature Increases during g-Tummo Meditation" (2013); Girard, Deceit, Desire and the Novel (1961); Dawkins, The Selfish Gene (1976); Giesea, "It's Time to Embrace Memetic Warfare" (2015); the Apocryphon of John; the alchemical operations (calcination)
+
+### The holographic principle
+
+'t Hooft, "Dimensional Reduction in Quantum Gravity" (1993); Susskind, "The World as a Hologram" (1995); Maldacena, "The Large N Limit of Superconformal Field Theories and Supergravity" (1997); Bekenstein, "Universal upper bound on the entropy-to-energy ratio for bounded systems" (1981); Wheeler, "Information, Physics, Quantum: The Search for Links" (1989); Fields, Friston, Glazebrook and Levin, "A free energy principle for generic quantum systems" (2022); Bohm, Wholeness and the Implicate Order (1980); Talbot, The Holographic Universe (1991); Plate, "Holographic Reduced Representations" (1995); the Avatamsaka Sutra (Huayan Buddhism)
 
 ### Machinery
 
