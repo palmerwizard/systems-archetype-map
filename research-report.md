@@ -1,10 +1,10 @@
 # Term Constellations: research report
 
-3 October 2026 · map version 29
+3 October 2026 · map version 30
 
 ## 1. What the map is
 
-It's a star chart of **263 terms** in **11 constellations**, plus **53 field stars**: terms that don't resonate with any group yet.
+It's a star chart of **272 terms** in **11 constellations**, plus **53 field stars**: terms that don't resonate with any group yet.
 
 Every term has a label:
 
@@ -15,9 +15,9 @@ Every term has a label:
 | Practice | 49 |
 | Fringe | 13 |
 
-There are **500 links**, of four kinds:
+There are **502 links**, of four kinds:
 
-**Measured (391):** two terms share GitHub repos at least 1.5 times as often as chance would give. Only these count in any calculation. **Stated (71, gold dotted):** a link declared in the rosetta documents or a cited source, including 16 new human-AI mirror links. **Translations (23, cyan):** the Loom pairing systems terms with soul-side terms. **Rhymes (15, red dotted):** lines in the Extraction that follow the extraction-systems map.
+**Measured (391):** two terms share GitHub repos at least 1.5 times as often as chance would give. Only these count in any calculation. **Stated (73, gold dotted):** a link declared in the rosetta documents or a cited source, including 16 new human-AI mirror links. **Translations (23, cyan):** the Loom pairing systems terms with soul-side terms. **Rhymes (15, red dotted):** lines in the Extraction that follow the extraction-systems map.
 
 The map has three layers, and the page labels each one:
 
@@ -141,7 +141,61 @@ Bullshit jobs is labelled speculative: later surveys found far fewer pointless j
 
 **Searches:** public GitHub search, run one at a time, with exact-phrase queries only. **Coined terms** go on the map only when someone else's repo uses them in the same sense. The one exception is temple dynamics, added by override and labeled as coined. **The public export** removes the follow graph, the named people, the cases and the organisations, and credits "rosetta". **Limits:** Measured links show that terms appear together in repos, not that one causes the other. The corpus is public GitHub repos, which skews toward the Engine: people who push code write about AI tooling, while sound practice, contemplation and temple work live largely off GitHub, so the Lyre and the Witness will always look thinner than they are. Some GitHub counts include repos that only share the name (Temenos, for one, is mostly a banking platform). The node list was chosen; modularity says the clusters are not noise given those nodes, not that the selection was neutral. Every curated group is labelled as curated. **Similar maps that already exist:** Anvaka's Map of GitHub; Crawford and Joler's Anatomy of an AI System and Calculating Empires; the CCRU Numogram; Crowley's 777 tables of correspondence; Mapa de la Conciencia. The map combines measured term resonance with curated esoteric and systems readings.
 
-## 6. Sources
+## 6. The hyperstition cluster
+
+9 new stars, backed by outside evidence. 272 terms.
+
+**Already on the map** (new entries link to the existing star):
+
+| Term | Existing star |
+|---|---|
+| hyperstition | hyperstition (the Oracle) |
+| strange attractor | strange attractor (the Loom) |
+| the watcher | metacognition |
+| extraction | the Extraction constellation |
+| inverted prism | the Inverted Prism constellation |
+| psyop | cognitive warfare (already folded in) |
+| enclosure | extractivism (already folded in) |
+
+**New stars:**
+
+| Star | Repos | Sits | Connected to |
+|---|---|---|---|
+| numogram (the CCRU's ten zones) | 14 | orbits the Oracle | hyperstition, syzygy, gematria |
+| syzygy | 539 | orbits the Oracle | numogram (the five pairs summing to nine), union of opposites (Jung's syzygy, anima and animus) |
+| gematria | 596 | the Oracle, by measured links | mysticism, Kabbalah, numogram (the encoding step) |
+| desiring-machines (Deleuze and Guattari) | 9 | orbits the Oracle | hyperstition; "words as alien agents echoing earth's traumas" |
+| hypersigil (Grant Morrison's fiction written as a spell) | 11 | the Witness, by measured links | hyperstition, meme magic |
+| meme magic | 62 | orbits the Oracle | hypersigil, egregore |
+| loosh (Monroe) | 60 | the Extraction, as "what gets extracted" | archons, emotional labor |
+| burning of Alexandria | 153 | the Extraction, as "the old version", the original enclosure | |
+| mirror moment (coined) | 11 | the Prism | metacognition, transcendent function |
+
+Syzygy to union of opposites is the strongest Jung rhyme in the batch. The Alexandria star notes the single great fire is largely legend: the library declined over centuries. Mirror moment passed on one outside repo using it in the exact sense: a recorder for "mirror moments", when cognitive boundaries loosen.
+
+**Coinages without outside matches** ride on the star they describe, under a gold panel section "Also named in rosetta":
+
+| Star | Names on it |
+|---|---|
+| transcendent function | transcendence function, the door |
+| firehose of falsehood | polarity mechanics (the lure) |
+| platform cooperativism | polarity inversion |
+| hypersigil | seeded mirror |
+| meme magic | viral spells, hyperglyph |
+| numogram | chronodemons, zone charge |
+| syzygy | open gates |
+| cognitive warfare | language as psyop |
+
+**Two coinages became links:**
+
+- **The fire and the prism:** burning of Alexandria to the PRISM program. The fire takes everything out, the Prism takes everything in.
+- **Language as psyop:** Alexandria to cognitive warfare. Burn the commons and the surviving vocabulary is the controlled one. Cites Burroughs' "language is a virus".
+
+## 7. Sources
+
+### Hyperstition cluster
+
+Burroughs on "language is a virus"; Deleuze and Guattari; Grant Morrison on hypersigils; Robert Monroe; the CCRU numogram
 
 ### Work and labour
 
