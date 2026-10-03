@@ -1,6 +1,6 @@
 # Systems Archetype Map
 
-A star chart of 289 terms in 11 constellations, plus 53 field stars. Mined from 1,142 GitHub repos and grouped by resonance, with new words measured across 8,266 more repos.
+A star chart of 300 terms in 11 constellations, plus 51 field stars. Mined from 1,142 GitHub repos and grouped by resonance, with new words measured across 8,679 more repos.
 
 ## Open it
 
@@ -12,21 +12,23 @@ A star chart of 289 terms in 11 constellations, plus 53 field stars. Mined from 
 | Constellation | Terms | What it holds |
 |---|---|---|
 | The Engine | 41 | AI agents and the tooling around them, beside everyday human work, and the fire that drives the making |
-| The Lyre | 26 | sound, vibration and geometry |
+| The Lyre | 27 | sound, vibration and geometry |
 | The Loom | 27 | cybernetics, systems and emergence |
 | The Oracle | 17 | divination, symbol and the mystic traditions |
-| The Witness | 19 | consciousness, meditation and awakening |
+| The Witness | 18 | consciousness, meditation and awakening |
 | The Lens | 13 | mathematics, active inference and how minds model the world |
 | The Shadow | 13 | Jungian depth psychology |
 | The Prism | 7 | interoception, metacognition, anti-deskilling, mirror moment, post-traumatic growth, antifragility |
-| The Extraction | 30 | the extraction playbook: six moves, what gets taken, counter-moves |
+| The Extraction | 34 | the extraction playbook: six moves, what gets taken, counter-moves; the black hole sits just above it |
 | The Inverted Prism | 8 | the aggregate observer: takes in all the light, returns none |
 | The Temple | 12 | groups as psychic structure, where the mythic and systems layers meet |
-| Field stars | 53 | terms that resonate with nothing yet |
+| Field stars | 51 | terms that resonate with nothing yet |
 
 ## New this round
 
-The fire (also the spark, the flame) joined the Engine: the maker's heat, adversity, frisson and abstraction transmuted into making. Two paths leave it. Transmuted: post-traumatic growth, the fire, frisson, metacognition, the transcendent function. Extracted: the fire, mimetic desire, memetics, loosh. Around it: tummo (the inner fire, beside kundalini), calcination (alchemy's first fire), post-traumatic growth and antifragility (both measured into the Prism), and memetic warfare in the Extraction. Memetics is now the hub of the mimetics web, linked to hyperstition, meme magic, hypersigil, memetic warfare and egregore.
+The planetary body: kundalini in the person, ley lines and the world grid in the land, the noosphere as the planet's mind, stacked as a rising column from kundalini up to the noosphere, with chakras, telluric currents, the Schumann resonance and the Global Consciousness Project between. The kundalini link holds in the literature (two serpent currents along one alignment; the "planetary kundalini"), not as a measured current. Between the Inverted Prism and the Extraction, the black hole: where the money and the loosh disappear, sharing the secrecy above and the money below. UAP and Pentagon audits sit beside it; tax havens, dark money, offshore leaks and beneficial ownership feed into it from the Extraction; the fire's extracted path now ends there. The Prism was raised toward the Engine to open the middle of the map. A new guard drops measured links between terms that share a search word; it removed five circular links.
+
+Also this round: the fire (also the spark, the flame) joined the Engine: the maker's heat, adversity, frisson and abstraction transmuted into making. Two paths leave it. Transmuted: post-traumatic growth, the fire, frisson, metacognition, the transcendent function. Extracted: the fire, mimetic desire, memetics, loosh. Around it: tummo (the inner fire, beside kundalini), calcination (alchemy's first fire), post-traumatic growth and antifragility (both measured into the Prism), and memetic warfare in the Extraction. Memetics is now the hub of the mimetics web, linked to hyperstition, meme magic, hypersigil, memetic warfare and egregore.
 
 Also this round: the holographic principle became a hub at the centre of the map, inside the star just right of the Prism, with its family around it: AdS/CFT, the Bekenstein bound, it from bit, Bohm's implicate order, Talbot's holographic universe, holographic reduced representations and Indra's net. Its sourced links reach six constellations, from the Markov blanket in the Lens (the boundary as a holographic screen) to vector-symbolic AI in the Engine. On narrow screens the map now zooms far enough for star names to appear.
 
@@ -43,7 +45,7 @@ Earlier this round: everyday human work joined the Engine beside the AI vocabula
 
 ## Method
 
-Terms were extracted from READMEs and docs across 1,142 public repos, then clustered by co-occurrence measured against chance (modularity 0.659). New words were measured across 8,266 more repos. Curated constellations (the Extraction, the Inverted Prism, the Temple) are labeled as curated. Coined terms appear only when someone else's repo uses them in the same sense, with labeled exceptions. The full method, layers and sources are in `research-report.md`. Snapshots go stale; re-mining on a cadence is what keeps a map like this live.
+Terms were extracted from READMEs and docs across 1,142 public repos, then clustered by co-occurrence measured against chance (modularity 0.659). New words were measured across 8,679 more repos. Curated constellations (the Extraction, the Inverted Prism, the Temple) are labeled as curated. Coined terms appear only when someone else's repo uses them in the same sense, with labeled exceptions. The full method, layers and sources are in `research-report.md`. Snapshots go stale; re-mining on a cadence is what keeps a map like this live.
 
 ## Files
 
