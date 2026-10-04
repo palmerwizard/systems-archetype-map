@@ -1,6 +1,6 @@
 # Systems Archetype Map
 
-A star chart of 300 terms in 11 constellations, plus 51 field stars. Mined from 1,142 GitHub repos and grouped by resonance, with new words measured across 8,679 more repos.
+A star chart of 304 terms in 11 constellations, plus 51 field stars. Mined from 1,142 GitHub repos and grouped by resonance, with new words measured across 9,009 more repos.
 
 ## Open it
 
@@ -11,7 +11,7 @@ A star chart of 300 terms in 11 constellations, plus 51 field stars. Mined from 
 
 | Constellation | Terms | What it holds |
 |---|---|---|
-| The Engine | 41 | AI agents and the tooling around them, beside everyday human work, and the fire that drives the making |
+| The Engine | 40 | AI agents and the tooling around them, beside everyday human work; the fire burns just below it |
 | The Lyre | 27 | sound, vibration and geometry |
 | The Loom | 27 | cybernetics, systems and emergence |
 | The Oracle | 17 | divination, symbol and the mystic traditions |
@@ -19,12 +19,14 @@ A star chart of 300 terms in 11 constellations, plus 51 field stars. Mined from 
 | The Lens | 13 | mathematics, active inference and how minds model the world |
 | The Shadow | 13 | Jungian depth psychology |
 | The Prism | 7 | interoception, metacognition, anti-deskilling, mirror moment, post-traumatic growth, antifragility |
-| The Extraction | 34 | the extraction playbook: six moves, what gets taken, counter-moves; the black hole sits just above it |
+| The Extraction | 38 | the extraction playbook: six moves, what gets taken, counter-moves; the black hole sits just above it |
 | The Inverted Prism | 8 | the aggregate observer: takes in all the light, returns none |
 | The Temple | 12 | groups as psychic structure, where the mythic and systems layers meet |
 | Field stars | 51 | terms that resonate with nothing yet |
 
 ## New this round
+
+The fire moved into the centre column, between the Engine and the Prism, as the black hole's mirror: one is where the maker's heat burns, the other is where it disappears. Eight siphons now run from the fire down to the black hole, each a highway: mimetics, confession (the chill of being seen, said to a listener that logs it), outrage (rage bait), the loop (variable rewards and doomscrolling), parasocial bonds, the job, the platform (the creator economy) and the body. One path still runs the other way: transmuted, through frisson and metacognition to the transcendent function. The fire and the black hole are drawn as a bright ember and a dark disc.
 
 The planetary body: kundalini in the person, ley lines and the world grid in the land, the noosphere as the planet's mind, stacked as a rising column from kundalini up to the noosphere, with chakras, telluric currents, the Schumann resonance and the Global Consciousness Project between. The kundalini link holds in the literature (two serpent currents along one alignment; the "planetary kundalini"), not as a measured current. Between the Inverted Prism and the Extraction, the black hole: where the money and the loosh disappear, sharing the secrecy above and the money below. UAP and Pentagon audits sit beside it; tax havens, dark money, offshore leaks and beneficial ownership feed into it from the Extraction; the fire's extracted path now ends there. The Prism was raised toward the Engine to open the middle of the map. A new guard drops measured links between terms that share a search word; it removed five circular links.
 
@@ -45,7 +47,7 @@ Earlier this round: everyday human work joined the Engine beside the AI vocabula
 
 ## Method
 
-Terms were extracted from READMEs and docs across 1,142 public repos, then clustered by co-occurrence measured against chance (modularity 0.659). New words were measured across 8,679 more repos. Curated constellations (the Extraction, the Inverted Prism, the Temple) are labeled as curated. Coined terms appear only when someone else's repo uses them in the same sense, with labeled exceptions. The full method, layers and sources are in `research-report.md`. Snapshots go stale; re-mining on a cadence is what keeps a map like this live.
+Terms were extracted from READMEs and docs across 1,142 public repos, then clustered by co-occurrence measured against chance (modularity 0.659). New words were measured across 9,009 more repos. Curated constellations (the Extraction, the Inverted Prism, the Temple) are labeled as curated. Coined terms appear only when someone else's repo uses them in the same sense, with labeled exceptions. The full method, layers and sources are in `research-report.md`. Snapshots go stale; re-mining on a cadence is what keeps a map like this live.
 
 ## Files
 
