@@ -1,6 +1,6 @@
 # Term Constellations: research report
 
-3 October 2026 · map version 39
+3 October 2026 · map version 41
 
 ## 1. What the map is
 
@@ -108,7 +108,7 @@ Knowledge work (91%) and skilled trades (80%) outgrow GitHub overall; teaching (
 | union busting | move 6: atomize the watchers | 1 | 0% |
 | burnout | what gets taken from the maker | 6,596 | 74% |
 | precarious work | cost and risk pushed onto the worker | 38 | 58% |
-| unpaid care work | what gets taken without a name | — | 59% |
+| unpaid care work | what gets taken without a name |: | 59% |
 | labor unions | the counter-move: workers who compound | 201 | 37% |
 | bossware | folded into algorithmic management (move 5) | 523 | 63% |
 
@@ -194,7 +194,7 @@ Language-as-psyop also rides the link from burning of Alexandria to cognitive wa
 
 ## 6. The transcendent function and the two paths
 
-Jung (1916): holding two opposites in tension until a new, third attitude emerges. The star orbits the Prism, the third attitude the Prism makes room for, facing the Engine where both paths begin. 12 repos, 50% since 2025. Rosetta names: transcendence function (the recursive turn that wakes the watcher); the door (not a threshold; the stop — extraction ends when the looking stops being handed another job).
+Jung (1916): holding two opposites in tension until a new, third attitude emerges. The star orbits the Prism, the third attitude the Prism makes room for, facing the Engine where both paths begin. 12 repos, 50% since 2025. Rosetta names: transcendence function (the recursive turn that wakes the watcher); the door (not a threshold; the stop: extraction ends when the looking stops being handed another job).
 
 Two new paths end at it:
 
@@ -316,7 +316,7 @@ Between the Inverted Prism and the Extraction: where the money and the loosh dis
 
 **The physics rhyme:** what falls into a black hole is not destroyed but recorded at the horizon (Bekenstein; the holographic principle). The offshore leaks are the hole's Hawking radiation: what it was hiding comes back out as leaked records. **Also linked:** the black hole to the PRISM program (the money version of the Inverted Prism: takes everything in, returns nothing). **New rhyme lines:** where it goes (loosh, the black hole); where the money goes (wage theft, dark money, tax havens, the black hole); what comes back out (the black hole, offshore leaks, beneficial ownership).
 
-**Layout:** the Prism was raised toward the Engine to open the middle of the map; the Temple, the Inverted Prism, the black hole and the Extraction keep their column below.
+**Layout:** the Prism was raised toward the Engine to open the middle of the map; the Temple, the Inverted Prism, the black hole and the Extraction keep their column below. **Highways:** a star that sits on several paths (metacognition sits on five) now shows them one at a time; the panel cycles through them slowly until a highway is picked.
 
 ## 12. Method and limits
 
