@@ -41,7 +41,7 @@ Earlier this round: everyday human work joined the Engine beside the AI vocabula
 - Line types: measured (co-occurrence), stated (gold dotted, declared connections), translations (cyan, systems terms paired with soul-side terms), rhymes (red dotted, curated groupings).
 - Starred terms are new words from the frontier measurement. Gold terms are coined terms.
 - Field stars resonate with nothing yet: too rare in these repos for a pattern to form.
-- The six outer constellations form a hexagram; the Temple sits between the Prism and the Inverted Prism. Paths are curved with numbered stations and a travelling arrow. Plot a path: click stars in order to chart a route. Search finds every name a star answers to, including rosetta names. Human and AI tags mark the two vocabularies.
+- The six outer constellations form a hexagram; the Temple sits between the Prism and the Inverted Prism. Paths are curved with numbered stations and a travelling arrow. A star on several paths shows them one at a time as highways: the panel cycles through them slowly until you pick one. Plot a path: click stars in order to chart a route. Search finds every name a star answers to, including rosetta names. Human and AI tags mark the two vocabularies.
 
 ## Method
 
