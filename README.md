@@ -1,6 +1,6 @@
 # Systems Archetype Map
 
-A star chart of 304 terms in 11 constellations, plus 51 field stars. Mined from 1,142 GitHub repos and grouped by resonance, with new words measured across 9,009 more repos.
+A star chart of 324 terms in 13 constellations, plus 50 field stars. Mined from 1,142 GitHub repos and grouped by resonance, with new words measured across 9,677 more repos.
 
 ## Open it
 
@@ -19,12 +19,18 @@ A star chart of 304 terms in 11 constellations, plus 51 field stars. Mined from 
 | The Lens | 13 | mathematics, active inference and how minds model the world |
 | The Shadow | 13 | Jungian depth psychology |
 | The Prism | 7 | interoception, metacognition, anti-deskilling, mirror moment, post-traumatic growth, antifragility |
-| The Extraction | 38 | the extraction playbook: six moves, what gets taken, counter-moves; the black hole sits just above it |
+| The Extraction | 40 | the extraction playbook: six moves, what gets taken, counter-moves; the black hole sits just above it |
 | The Inverted Prism | 8 | the aggregate observer: takes in all the light, returns none |
 | The Temple | 12 | groups as psychic structure, where the mythic and systems layers meet |
-| Field stars | 51 | terms that resonate with nothing yet |
+| The Gymnasium | 8 | the trained body: effort, rhythm, discipline, and the chills that come with them |
+| The Politicals | 10 | the room as stage: acting, theatre, play, masks, ego and deception |
+| Field stars | 50 | terms that resonate with nothing yet |
 
 ## New this round
+
+The classical city's three rooms now form the middle row, beneath the Lens, the Prism and the Loom: the Temple at the centre (the room as sacred space), with the Gymnasium (the trained body) on one side and the Politicals on the other (the room as stage, with the performer at its centre). Both new rooms connect to frisson: the Gymnasium through effort and rhythm (workout music, the runner's high), the Politicals through allegory and symbolic perception, since chills arrive when meaning resolves. Four schemes run from the rooms down to the Extraction: the gym (memberships people pay for and rarely use), the bet (sports betting on the slot-machine schedule), the stage (political theater into the spectacle and rage bait) and the temple (high-control groups).
+
+The fire does not all get sucked in. Seven return highways now carry it outward, one into each outer cluster, drawn solid where the siphons are dashed: the song (the Lyre: shared rhythm and synchronized hearts), the gift (the Engine: craft passed on, ending in the gift economy), the circle (the Witness: co-regulation), the myth (the Oracle: the hero returns with the boon), the shadow (individuation), the pattern (the Lens: tested and published back as open science) and the commons (the Loom: collective intelligence). With the transmuted path, eight carry the fire outward and eight siphon it.
 
 The fire moved into the centre column, between the Engine and the Prism, as the black hole's mirror: one is where the maker's heat burns, the other is where it disappears. Eight siphons now run from the fire down to the black hole, each a highway: mimetics, confession (the chill of being seen, said to a listener that logs it), outrage (rage bait), the loop (variable rewards and doomscrolling), parasocial bonds, the job, the platform (the creator economy) and the body. One path still runs the other way: transmuted, through frisson and metacognition to the transcendent function. The fire and the black hole are drawn as a bright ember and a dark disc.
 
@@ -47,7 +53,7 @@ Earlier this round: everyday human work joined the Engine beside the AI vocabula
 
 ## Method
 
-Terms were extracted from READMEs and docs across 1,142 public repos, then clustered by co-occurrence measured against chance (modularity 0.659). New words were measured across 9,009 more repos. Curated constellations (the Extraction, the Inverted Prism, the Temple) are labeled as curated. Coined terms appear only when someone else's repo uses them in the same sense, with labeled exceptions. The full method, layers and sources are in `research-report.md`. Snapshots go stale; re-mining on a cadence is what keeps a map like this live.
+Terms were extracted from READMEs and docs across 1,142 public repos, then clustered by co-occurrence measured against chance (modularity 0.659). New words were measured across 9,677 more repos. Curated constellations (the Extraction, the Inverted Prism, the Temple, the Gymnasium, the Politicals) are labeled as curated. Coined terms appear only when someone else's repo uses them in the same sense, with labeled exceptions. The full method, layers and sources are in `research-report.md`. Snapshots go stale; re-mining on a cadence is what keeps a map like this live.
 
 ## Files
 

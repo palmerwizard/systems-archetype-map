@@ -1,23 +1,23 @@
 # Term Constellations: research report
 
-3 October 2026 · map version 43
+3 October 2026 · map version 45
 
 ## 1. What the map is
 
-It's a star chart of **304 terms** in **11 constellations**, plus **51 field stars**: terms that don't resonate with any group yet.
+It's a star chart of **324 terms** in **13 constellations**, plus **50 field stars**: terms that don't resonate with any group yet.
 
 Every term has a label:
 
 | Label | Terms |
 |---|---|
-| Grounded | 165 |
-| Speculative | 64 |
-| Practice | 59 |
+| Grounded | 177 |
+| Speculative | 69 |
+| Practice | 62 |
 | Fringe | 16 |
 
-There are **690 links**, of four kinds:
+There are **742 links**, of four kinds:
 
-**Measured (456):** two terms share GitHub repos at least 1.5 times as often as chance would give. Only these count in any calculation. **Stated (185, gold dotted):** a link declared in the rosetta documents or a cited source, including 16 human-AI mirror links. **Translations (23, cyan):** the Loom pairing systems terms with soul-side terms. **Rhymes (26, red dotted):** lines in the Extraction that follow the extraction-systems map.
+**Measured (481):** two terms share GitHub repos at least 1.5 times as often as chance would give. Only these count in any calculation. **Stated (212, gold dotted):** a link declared in the rosetta documents or a cited source, including 16 human-AI mirror links. **Translations (23, cyan):** the Loom pairing systems terms with soul-side terms. **Rhymes (26, red dotted):** lines in the Extraction that follow the extraction-systems map.
 
 The map has three layers, and the page labels each one:
 
@@ -252,9 +252,23 @@ The measured layer agrees in one place: holographic principle and AdS/CFT share 
 
 The maker's heat: adversity, frisson and abstraction transmuted into making. Also named the spark (the moment it catches) and the flame (the heat held and kept burning). It sits in the centre column between the Engine and the Prism, as the black hole's mirror: the star solver keeps a gap above the Prism for it, as it does below the Inverted Prism for the black hole. It is drawn as a bright ember. No outside repo uses "the fire" in this sense, so it is on the map by override and labelled as coined, like temple dynamics; its evidence comes through the stars it links.
 
-**Nine paths leave it**, shown one at a time as highways:
+**Sixteen paths leave it**, shown one at a time as highways: eight carry it outward (solid), eight siphon it (dashed).
 
 **Transmuted:** post-traumatic growth (adversity, the fuel) → the fire (the spark catches) → frisson (the flash: the body confirms the meaning landed) → metacognition (abstraction: the heat turned into seeing the pattern) → transcendent function (the fire held, neither spent nor stolen).
+
+**Returned**, seven highways, one into each outer cluster:
+
+| Return | Route | Anchor |
+|---|---|---|
+| the song (the Lyre) | frisson, music and sound, coupled oscillators, heart coherence | people who sing and move in time bond more (Tarr, Launay and Dunbar 2014); choir singers' heart rates fall into step (Vickhoff et al. 2013) |
+| the gift (the Engine) | craftsmanship, apprenticeship, teaching, gift economy | Sennett 2008; generativity (Erikson 1950); a gift must keep moving (Hyde 1983) |
+| the circle (the Witness) | co-regulation, nervous system regulation, creative practice | co-regulation, documented from infancy on |
+| the myth (the Oracle) | calcination, alchemy, mythology | the hero returns with the boon (Campbell 1949) |
+| the shadow (the Shadow) | shadow work, archetypes, individuation | Jung |
+| the pattern (the Lens) | metacognition, epistemology, scientific method, open science | the commons of knowledge refilled: the answer to Alexandria |
+| the commons (the Loom) | collective effervescence, collective intelligence, self-organization | Durkheim 1912; groups show a measurable collective intelligence (Woolley et al. 2010) |
+
+**New star:** gift economy (51 repos, 45% since 2025), at the Engine's rim where the gift path ends; linked to the black hole as its opposite (the gift grows by circulating, the hole returns nothing), to platform cooperativism, and open science to the burning of Alexandria.
 
 **Siphoned**, eight highways, each ending in loosh or the black hole:
 
@@ -338,11 +352,56 @@ Between the Inverted Prism and the Extraction: where the money and the loosh dis
 
 **Layout:** the Prism was raised toward the Engine to open the middle of the map; the Temple, the Inverted Prism, the black hole and the Extraction keep their column below. **Highways:** a star that sits on several paths (metacognition sits on five) now shows them one at a time; the panel cycles through them slowly until a highway is picked.
 
-## 12. Method and limits
+## 12. The three rooms: the Temple, the Gymnasium, the Politicals
+
+The classical city kept three rooms side by side: the temple, the gymnasium and the theatre. They now form the middle row, beneath the Lens, the Prism and the Loom, with the Temple at the centre of the column, the Gymnasium to its left and the Politicals to its right. Plato's Academy and Aristotle's Lyceum were gymnasia, where training the body and the mind shared one ground.
+
+**The Gymnasium** (curated): the trained body.
+
+| Star | Repos | Since 2025 | Notes |
+|---|---|---|---|
+| sports betting | 5,474 | 62% | wagering on games, legal across most US states since Murphy v. NCAA (2018); sits in the Extraction |
+| flow state | 1,900 (11 in context) | 77% | full absorption when challenge meets skill (Csikszentmihalyi 1990) |
+| deliberate practice | 554 | 35% | skill grows from practice at the edge of ability, with feedback (Ericsson et al. 1993) |
+| workout music | 122 | 24% | music lifts mood and endurance in exercise (Karageorghis and Priest 2012); linked to frisson |
+| runner's high | 62 | 44% | the euphoria after sustained effort, through the endocannabinoid system (Siebers et al. 2021); linked to frisson |
+| sport psychology | 48 | 85% | mind in training and competition |
+| hormesis | 42 | 64% | a low dose of stress that strengthens (Mattson 2008); linked to antifragility and post-traumatic growth |
+| martial arts | 2,544 (1 in context) | 46% | disciplines of body and attention |
+| breathwork | from the original index | | was a field star; now linked to tummo |
+
+**The Politicals** (curated): the Temple's mirror. Where the Temple seats people in a pattern, the Politicals put them on a stage. **The performer** (coined, on by override and labelled) stands at its centre: the role played for an audience, ego wearing the mask, deception kept up as theatre.
+
+| Star | Repos | Since 2025 | Notes |
+|---|---|---|---|
+| deception | 849 (23 in context) | 61% | lie detection, and now AI models tested for deceiving their evaluators; linked to alignment faking |
+| allegory | 210 (2 in context) | 32% | a story that means another story; linked to frisson |
+| dramaturgy | 57 | 72% | Goffman (1959): social life as performance, front stage and back stage; linked to frisson through catharsis |
+| self-deception | 40 | 85% | we deceive ourselves the better to deceive others (Trivers 2011) |
+| kayfabe | 36 (1 in context) | 58% | the illusion everyone keeps up, the audience included |
+| persona | 23 | 87% | Jung's mask; paired with the shadow |
+| virtue signaling | 7 | 57% | the moral stance displayed instead of acted on |
+| political theater | 4 | 50% | performance in place of policy (Edelman 1964) |
+| the spectacle | 1 | | Debord (1967): life mediated by images; linked to the attention economy |
+
+**Theatre and frisson, checked:** the link holds through allegory and symbolic perception. Aesthetic chills arrive when meaning resolves, when a story or symbol suddenly makes sense (Schoeller and Perlovsky 2016); recited poetry produces measurable chills (Wassiliwizky et al. 2017); the stage's own word for the release is catharsis.
+
+**Four schemes** run from the rooms down to the Extraction, drawn dashed like the siphons:
+
+| Scheme | Route | Anchor |
+|---|---|---|
+| the gym | runner's high, variable rewards, dark patterns, the black hole | memberships easy to start and hard to cancel; people pay for gyms they rarely use (DellaVigna and Malmendier 2006) |
+| the bet | sport psychology, sports betting, variable rewards, loosh, the black hole | the slot-machine schedule brought to sport (Schull 2012) |
+| the stage | the performer, political theater, the spectacle, rage bait, loosh, the black hole | Edelman 1964; Debord 1967; Brady et al. 2021 |
+| the temple | collective effervescence, basic assumption groups, high-control groups, the black hole | Bion; the BITE model (Hassan); high-control groups (32 repos, 81% since 2025) sit in the Extraction |
+
+Variable rewards is the junction where three schemes meet: the gym, the bet and the loop.
+
+## 13. Method and limits
 
 **Searches:** public GitHub search, run one at a time, with exact-phrase queries only. A second search counts repos created since 1 January 2025 (70% for all of GitHub). **Coined terms** go on the map only when someone else's repo uses them in the same sense. Two were read by hand and accepted: mirror moment, somatic engineering. Temple dynamics was added by override and labeled as coined. **Placement:** measured constellations come from community detection; the Extraction, Inverted Prism and Temple are curated; everyday work, kundalini and the frisson cluster were placed by hand or by the centre of their sourced links, and each panel says so. Broad or ambiguous words count a link only when the repo also uses the map's vocabulary ("in-context repos"); where none passed, the raw results were kept, so some measured links may include other senses. **The public export** removes the follow graph, the named people, the cases and the organisations, and credits "rosetta". **Limits:** Measured links show that terms appear together in repos, not that one causes the other. The corpus is public GitHub repos, which skews toward the Engine: people who push code write about AI tooling, while sound practice, contemplation and temple work live largely off GitHub, so the Lyre and the Witness will always look thinner than they are. Some GitHub counts include repos that only share the name (Temenos, for one, is mostly a banking platform). The node list was chosen; modularity says the clusters are not noise given those nodes, not that the selection was neutral. Every curated group is labelled as curated. **Circular links:** a measured link between two terms that share a search word counts the same repos twice; these are now dropped automatically (five so far: somatic experiencing and somatics, gematria and arithmogeometry, algorithmic management and unpaid care work, ley lines and world grid, the Global Consciousness Project and parapsychology). Thin evidence is shown, not hidden: union busting has 1 repo, company town 11, ASMR 7 in context, somatic experiencing 5, implicate order 1 in context. Repos that share only a name are rejected by hand where found (Indra's net, holographic universe). **Similar maps that already exist:** Anvaka's Map of GitHub; Crawford and Joler's Anatomy of an AI System and Calculating Empires; the CCRU Numogram; Crowley's 777 tables of correspondence; Mapa de la Conciencia. The map combines measured term resonance with curated esoteric and systems readings.
 
-## 13. Sources
+## 14. Sources
 
 ### The planetary body
 
@@ -352,9 +411,13 @@ Watkins, The Old Straight Track (1925); Michell, The View Over Atlantis (1969); 
 
 Garcia-Bernardo, Fichtner, Takes and Heemskerk, "Uncovering Offshore Financial Centers: Conduits and Sinks in the Global Corporate Ownership Network" (Scientific Reports, 2017); Zucman, The Hidden Wealth of Nations (2015); Faye, Godar et al., Global Offshore Wealth (EU Tax Observatory); Mayer, Dark Money (2016); ICIJ, the Panama, Paradise and Pandora Papers (2016, 2017, 2021); Open Ownership, the Beneficial Ownership Data Standard; U.S. House Oversight hearing on UAP (July 2023); AARO, Report on the Historical Record of U.S. Government Involvement with UAP, vol. 1 (2024); Department of Defense agency-wide financial audits (2018 onward)
 
+### The three rooms
+
+Csikszentmihalyi, Flow (1990); Ericsson, Krampe and Tesch-Romer, "The Role of Deliberate Practice in the Acquisition of Expert Performance" (1993); Mattson, "Hormesis defined" (2008); Karageorghis and Priest, "Music in the exercise domain" (2012); Siebers et al., "Exercise-induced euphoria and anxiolysis do not depend on endogenous opioids in humans" (2021); Goffman, The Presentation of Self in Everyday Life (1959); Trivers, The Folly of Fools (2011); Edelman, The Symbolic Uses of Politics (1964); Debord, The Society of the Spectacle (1967); Tosi and Warmke, "Moral Grandstanding" (2016); Schoeller and Perlovsky, "Aesthetic Chills: Knowledge-Acquisition, Meaning-Making, and Aesthetic Emotions" (2016); Wassiliwizky et al., "The emotional power of poetry" (2017); DellaVigna and Malmendier, "Paying Not to Go to the Gym" (2006); Murphy v. NCAA (2018); Hassan, the BITE model; Stark, Coercive Control (2007)
+
 ### The fire and mimetics
 
-Phang et al., "Investigating Affective Use and Emotional Well-being on ChatGPT" (2025); Fang et al., "How AI and Human Behaviors Shape Psychosocial Effects of Chatbot Use" (2025); Brady et al., "How social learning amplifies moral outrage expression in online social networks" (Science Advances, 2021); Crockett, "Moral outrage in the digital age" (Nature Human Behaviour, 2017); Schull, Addiction by Design (2012); Horton and Wohl, "Mass Communication and Para-Social Interaction" (1956); Tedeschi and Calhoun, "The Posttraumatic Growth Inventory" (1996); Taleb, Antifragile (2012); Kozhevnikov et al., "Neurocognitive and Somatic Components of Temperature Increases during g-Tummo Meditation" (2013); Girard, Deceit, Desire and the Novel (1961); Dawkins, The Selfish Gene (1976); Giesea, "It's Time to Embrace Memetic Warfare" (2015); the Apocryphon of John; the alchemical operations (calcination)
+Tarr, Launay and Dunbar, "Music and social bonding" (Frontiers in Psychology, 2014); Vickhoff et al., "Music structure determines heart rate variability of singers" (Frontiers in Psychology, 2013); Erikson, Childhood and Society (1950); Hyde, The Gift (1983); Mauss, The Gift (1925); Campbell, The Hero with a Thousand Faces (1949); Woolley et al., "Evidence for a Collective Intelligence Factor in the Performance of Human Groups" (Science, 2010); Durkheim, The Elementary Forms of Religious Life (1912); Phang et al., "Investigating Affective Use and Emotional Well-being on ChatGPT" (2025); Fang et al., "How AI and Human Behaviors Shape Psychosocial Effects of Chatbot Use" (2025); Brady et al., "How social learning amplifies moral outrage expression in online social networks" (Science Advances, 2021); Crockett, "Moral outrage in the digital age" (Nature Human Behaviour, 2017); Schull, Addiction by Design (2012); Horton and Wohl, "Mass Communication and Para-Social Interaction" (1956); Tedeschi and Calhoun, "The Posttraumatic Growth Inventory" (1996); Taleb, Antifragile (2012); Kozhevnikov et al., "Neurocognitive and Somatic Components of Temperature Increases during g-Tummo Meditation" (2013); Girard, Deceit, Desire and the Novel (1961); Dawkins, The Selfish Gene (1976); Giesea, "It's Time to Embrace Memetic Warfare" (2015); the Apocryphon of John; the alchemical operations (calcination)
 
 ### The holographic principle
 
