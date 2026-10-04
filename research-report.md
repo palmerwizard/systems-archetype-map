@@ -1,23 +1,23 @@
 # Term Constellations: research report
 
-3 October 2026 · map version 41
+3 October 2026 · map version 43
 
 ## 1. What the map is
 
-It's a star chart of **300 terms** in **11 constellations**, plus **51 field stars**: terms that don't resonate with any group yet.
+It's a star chart of **304 terms** in **11 constellations**, plus **51 field stars**: terms that don't resonate with any group yet.
 
 Every term has a label:
 
 | Label | Terms |
 |---|---|
-| Grounded | 161 |
+| Grounded | 165 |
 | Speculative | 64 |
 | Practice | 59 |
 | Fringe | 16 |
 
-There are **683 links**, of four kinds:
+There are **690 links**, of four kinds:
 
-**Measured (454):** two terms share GitHub repos at least 1.5 times as often as chance would give. Only these count in any calculation. **Stated (180, gold dotted):** a link declared in the rosetta documents or a cited source, including 16 human-AI mirror links. **Translations (23, cyan):** the Loom pairing systems terms with soul-side terms. **Rhymes (26, red dotted):** lines in the Extraction that follow the extraction-systems map.
+**Measured (456):** two terms share GitHub repos at least 1.5 times as often as chance would give. Only these count in any calculation. **Stated (185, gold dotted):** a link declared in the rosetta documents or a cited source, including 16 human-AI mirror links. **Translations (23, cyan):** the Loom pairing systems terms with soul-side terms. **Rhymes (26, red dotted):** lines in the Extraction that follow the extraction-systems map.
 
 The map has three layers, and the page labels each one:
 
@@ -60,7 +60,7 @@ Its six moves, in order:
 
 | Constellation | Size | Core |
 |---|---|---|
-| The Engine | 41 | AI agents, LLMs, sycophancy, emergent misalignment, AI introspection, egregore, the fire |
+| The Engine | 40 | AI agents, LLMs, sycophancy, emergent misalignment, AI introspection, egregore |
 | The Lyre | 27 | psychoacoustics, sonification, coupled oscillators, heart coherence |
 | The Loom | 27 | feedback loops, strange attractor, homeostasis, Goodhart's law, strange loop |
 | The Oracle | 17 | mysticism, alchemy, mythology, hyperstition, religious traditions |
@@ -250,13 +250,33 @@ The measured layer agrees in one place: holographic principle and AdS/CFT share 
 
 ## 9. The fire
 
-The maker's heat: adversity, frisson and abstraction transmuted into making. Also named the spark (the moment it catches) and the flame (the heat held and kept burning). It sits at the top of the Engine. No outside repo uses "the fire" in this sense, so it is on the map by override and labelled as coined, like temple dynamics; its evidence comes through the stars it links.
+The maker's heat: adversity, frisson and abstraction transmuted into making. Also named the spark (the moment it catches) and the flame (the heat held and kept burning). It sits in the centre column between the Engine and the Prism, as the black hole's mirror: the star solver keeps a gap above the Prism for it, as it does below the Inverted Prism for the black hole. It is drawn as a bright ember. No outside repo uses "the fire" in this sense, so it is on the map by override and labelled as coined, like temple dynamics; its evidence comes through the stars it links.
 
-**Two paths leave it:**
+**Nine paths leave it**, shown one at a time as highways:
 
 **Transmuted:** post-traumatic growth (adversity, the fuel) → the fire (the spark catches) → frisson (the flash: the body confirms the meaning landed) → metacognition (abstraction: the heat turned into seeing the pattern) → transcendent function (the fire held, neither spent nor stolen).
 
-**Extracted:** the fire → mimetic desire (the heat redirected into wanting what others want, Girard) → memetics (copied out of the maker and spread as memes) → loosh (harvested: the feeling feeds the extractor).
+**Siphoned**, eight highways, each ending in loosh or the black hole:
+
+| Siphon | Route | Anchor |
+|---|---|---|
+| mimetics | mimetic desire, memetics, loosh, the black hole | Girard; Dawkins |
+| confession | frisson (the chill of being seen), confessional AI, confessional clustering, loosh, the black hole | 2025 studies of chatbot use (Phang et al.; Fang et al.): a small group of heavy users accounted for most emotional conversations, and heavier use tracked with more loneliness and dependence |
+| outrage | rage bait, firehose of falsehood, memetic warfare, loosh, the black hole | Brady et al. 2021; Crockett 2017 |
+| the loop | variable rewards, doomscrolling, attention economy, loosh, the black hole | Skinner; Schull, Addiction by Design (2012) |
+| parasocial | parasocial AI, AI companionship, sycophancy, loosh, the black hole | Horton and Wohl 1956; Sharma et al. 2023 |
+| the job | emotional labor, burnout, wage theft, the black hole | Hochschild 1983; WHO |
+| the platform | creator economy, technofeudalism, tax havens, the black hole | Garcia-Bernardo et al. 2017 |
+| the body | somatic engineering, neuromarketing, dark patterns, the black hole | proposed |
+
+**New stars on the siphons:**
+
+| Star | Repos | Since 2025 | Rhymes with |
+|---|---|---|---|
+| doomscrolling | 1,425 | 93% | what gets extracted: time and calm, one more item at a time (many repos are blockers) |
+| rage bait | 450 | 98% | move 4, flood the zone, with anger: outrage earns reach, and reach teaches more outrage |
+| creator economy | 378 | 87% | move 2, move up a layer: the maker's output becomes the platform's product |
+| variable rewards | 30 | 50% | what gets extracted: attention, held by rewards that come only sometimes |
 
 **Its links:**
 
@@ -334,7 +354,7 @@ Garcia-Bernardo, Fichtner, Takes and Heemskerk, "Uncovering Offshore Financial C
 
 ### The fire and mimetics
 
-Tedeschi and Calhoun, "The Posttraumatic Growth Inventory" (1996); Taleb, Antifragile (2012); Kozhevnikov et al., "Neurocognitive and Somatic Components of Temperature Increases during g-Tummo Meditation" (2013); Girard, Deceit, Desire and the Novel (1961); Dawkins, The Selfish Gene (1976); Giesea, "It's Time to Embrace Memetic Warfare" (2015); the Apocryphon of John; the alchemical operations (calcination)
+Phang et al., "Investigating Affective Use and Emotional Well-being on ChatGPT" (2025); Fang et al., "How AI and Human Behaviors Shape Psychosocial Effects of Chatbot Use" (2025); Brady et al., "How social learning amplifies moral outrage expression in online social networks" (Science Advances, 2021); Crockett, "Moral outrage in the digital age" (Nature Human Behaviour, 2017); Schull, Addiction by Design (2012); Horton and Wohl, "Mass Communication and Para-Social Interaction" (1956); Tedeschi and Calhoun, "The Posttraumatic Growth Inventory" (1996); Taleb, Antifragile (2012); Kozhevnikov et al., "Neurocognitive and Somatic Components of Temperature Increases during g-Tummo Meditation" (2013); Girard, Deceit, Desire and the Novel (1961); Dawkins, The Selfish Gene (1976); Giesea, "It's Time to Embrace Memetic Warfare" (2015); the Apocryphon of John; the alchemical operations (calcination)
 
 ### The holographic principle
 
