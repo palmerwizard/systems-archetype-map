@@ -1,23 +1,23 @@
 # Term Constellations: research report
 
-3 October 2026 · map version 45
+20 October 2026 · map version 48
 
 ## 1. What the map is
 
-It's a star chart of **324 terms** in **13 constellations**, plus **50 field stars**: terms that don't resonate with any group yet.
+It's a star chart of **332 terms** in **13 constellations**, plus **50 field stars**: terms that don't resonate with any group yet.
 
 Every term has a label:
 
 | Label | Terms |
 |---|---|
-| Grounded | 177 |
-| Speculative | 69 |
-| Practice | 62 |
-| Fringe | 16 |
+| Grounded | 180 |
+| Speculative | 71 |
+| Practice | 63 |
+| Fringe | 18 |
 
-There are **742 links**, of four kinds:
+There are **763 links**, of four kinds:
 
-**Measured (481):** two terms share GitHub repos at least 1.5 times as often as chance would give. Only these count in any calculation. **Stated (212, gold dotted):** a link declared in the rosetta documents or a cited source, including 16 human-AI mirror links. **Translations (23, cyan):** the Loom pairing systems terms with soul-side terms. **Rhymes (26, red dotted):** lines in the Extraction that follow the extraction-systems map.
+**Measured (482):** two terms share GitHub repos at least 1.5 times as often as chance would give. Only these count in any calculation. **Stated (232, gold dotted):** a link declared in the rosetta documents or a cited source, including 16 human-AI mirror links. **Translations (23, cyan):** the Loom pairing systems terms with soul-side terms. **Rhymes (26, red dotted):** lines in the Extraction that follow the extraction-systems map.
 
 The map has three layers, and the page labels each one:
 
@@ -25,7 +25,7 @@ The map has three layers, and the page labels each one:
 
 ## 2. The column, top to bottom
 
-**The Lens, the Prism and the Loom** make up the centre row.
+**The Prism** heads the centre column. Its two sides, the Lens and the Loom, sit at the left and right corners of the octagon around it (version 48): they used to flank it in a centre row, and moving them out opens the middle for the three rooms.
 
 **The Prism** (interoception, metacognition, cognitive sovereignty, anti-deskilling) is the third position between the Lens (the formal sciences) and the Loom (systems language). **Tiferet orbits the Prism** as its counterpart on the Tree of Life: the heart of the middle pillar, where mercy and severity are reconciled. Gevurah (severity) orbits it on the side facing the Inverted Prism; war as Gevurah unbalanced.
 
@@ -56,7 +56,7 @@ Its six moves, in order:
 
 **What gets taken:** extractivism, surveillance capitalism, dark patterns, enshittification. **The confession line:** self-disclosure, which now hands off into the Temple. **War:** the same playbook at state scale. **Counter-moves:** sousveillance and platform cooperativism. **Collapsed terms:** near-duplicates were folded into one term per move. For example, self-disclosure now covers the privacy paradox, context collapse and ephemeral messaging.
 
-## 3. The measured sky (around the top and sides)
+## 3. The measured sky (the octagon)
 
 | Constellation | Size | Core |
 |---|---|---|
@@ -67,6 +67,8 @@ Its six moves, in order:
 | The Witness | 18 | consciousness studies, nervous system regulation, liminal web |
 | The Lens | 13 | active inference, Markov blanket, autopoiesis, epistemology |
 | The Shadow | 13 | archetypes, Jungian psychology, polyvagal theory, DBT, introspection |
+
+**Layout:** these seven and the Extraction sit on the corners of one regular octagon around the centre column, in this order clockwise from the top: the Engine, the Lyre, the Loom, the Witness, the Extraction, the Oracle, the Lens, the Shadow. The ring order is the one where neighbours resonate most with each other; the octagon is the smallest that clears every constellation and its title while leaving room for the fire above the Prism and the black hole above the Extraction.
 
 Stated links: strange attractor to archetypes; dark night of the soul to metacognition; dark night of the soul to kundalini (interpretive).
 
@@ -221,7 +223,7 @@ ASMR is the plainest working example of the technique; neuromarketing is the sam
 
 't Hooft (1993) and Susskind (1995): everything inside a region of space can be described by information on its boundary. AdS/CFT (Maldacena 1997) is the working example. It was already on the map from the original index, but as a bare field star with no links. 8 repos by exact-phrase search.
 
-**How it slots in:** it is a bridge. Its sourced links reach six constellations, so it is placed at the centre of them, inside the star just right of the Prism, with its family in a ring around it.
+**How it slots in:** it is a bridge. Its sourced links reach six constellations, so it is placed at the centre of them, inside the octagon just right of the centre column, with its family in a ring around it.
 
 | Reaches | Through | Source |
 |---|---|---|
@@ -350,11 +352,25 @@ Between the Inverted Prism and the Extraction: where the money and the loosh dis
 
 **The physics rhyme:** what falls into a black hole is not destroyed but recorded at the horizon (Bekenstein; the holographic principle). The offshore leaks are the hole's Hawking radiation: what it was hiding comes back out as leaked records. **Also linked:** the black hole to the PRISM program (the money version of the Inverted Prism: takes everything in, returns nothing). **New rhyme lines:** where it goes (loosh, the black hole); where the money goes (wage theft, dark money, tax havens, the black hole); what comes back out (the black hole, offshore leaks, beneficial ownership).
 
+**The chalice and the sacrifice.** Placed around the black hole: the myth layer on the secrecy side, the systems layer on the money side.
+
+| Star | Repos | Tier | Side | Notes |
+|---|---|---|---|---|
+| holy grail | 18 | practice | myth | the blood chalice: the vessel said to have held Christ's blood (Robert de Boron, around 1200); a vessel of transformation (Emma Jung and von Franz, The Grail Legend, 1960). Linked to the black hole as its inverse: the vessel that gives life back against the one that only receives |
+| child sacrifice | 36 (18 in context) | fringe | myth | claims of hidden ritual child sacrifice by elites. The ancient record includes Inca capacocha and Aztec offerings to Tlaloc, with Carthage's tophet debated; in medieval Europe the same accusation was made against Jews (the blood libel) and preceded massacres. Linked to Girard's sacrifice mechanism (Violence and the Sacred, 1972) |
+| adrenochrome | 16 | fringe | myth | the claim that elites harvest it from frightened children for youth or a high, circulated from 2020 in QAnon-era material; linked to child sacrifice and loosh |
+| Moloch | 2 | speculative | systems | the multipolar trap: competitors each sacrifice what they value to keep up (Alexander 2014); linked to the tragedy of the commons and AI race dynamics |
+| young blood | 4 | speculative | systems | heterochronic parabiosis; young plasma sold to older buyers until an FDA warning (2019) |
+| sacrifice zones | 1 | grounded | systems | places and people written off for industry (Lerner 2010); the one repo maps them against commercial data extraction |
+| child labour | 323 | grounded | systems | about 160 million children in 2020, the first rise in two decades (ILO and UNICEF 2021) |
+
+**Splitting, checked:** seeing people and things as all good or all bad (Klein; Kernberg), with "splitting bullets" among its search words. It has 4 repos, 1 in this sense, and shares none with the map, so measurement places it nowhere. Its sourced links put it between dialectical behavior therapy (the Shadow), polarity management (the Loom) and rage bait (the Extraction): the failure the Prism exists to repair.
+
 **Layout:** the Prism was raised toward the Engine to open the middle of the map; the Temple, the Inverted Prism, the black hole and the Extraction keep their column below. **Highways:** a star that sits on several paths (metacognition sits on five) now shows them one at a time; the panel cycles through them slowly until a highway is picked.
 
 ## 12. The three rooms: the Temple, the Gymnasium, the Politicals
 
-The classical city kept three rooms side by side: the temple, the gymnasium and the theatre. They now form the middle row, beneath the Lens, the Prism and the Loom, with the Temple at the centre of the column, the Gymnasium to its left and the Politicals to its right. Plato's Academy and Aristotle's Lyceum were gymnasia, where training the body and the mind shared one ground.
+The classical city kept three rooms side by side: the temple, the gymnasium and the theatre. They now form the middle row, beneath the Prism, with the Temple at the centre of the column, the Gymnasium to its left and the Politicals to its right. Plato's Academy and Aristotle's Lyceum were gymnasia, where training the body and the mind shared one ground.
 
 **The Gymnasium** (curated): the trained body.
 
@@ -399,7 +415,7 @@ Variable rewards is the junction where three schemes meet: the gym, the bet and 
 
 ## 13. Method and limits
 
-**Searches:** public GitHub search, run one at a time, with exact-phrase queries only. A second search counts repos created since 1 January 2025 (70% for all of GitHub). **Coined terms** go on the map only when someone else's repo uses them in the same sense. Two were read by hand and accepted: mirror moment, somatic engineering. Temple dynamics was added by override and labeled as coined. **Placement:** measured constellations come from community detection; the Extraction, Inverted Prism and Temple are curated; everyday work, kundalini and the frisson cluster were placed by hand or by the centre of their sourced links, and each panel says so. Broad or ambiguous words count a link only when the repo also uses the map's vocabulary ("in-context repos"); where none passed, the raw results were kept, so some measured links may include other senses. **The public export** removes the follow graph, the named people, the cases and the organisations, and credits "rosetta". **Limits:** Measured links show that terms appear together in repos, not that one causes the other. The corpus is public GitHub repos, which skews toward the Engine: people who push code write about AI tooling, while sound practice, contemplation and temple work live largely off GitHub, so the Lyre and the Witness will always look thinner than they are. Some GitHub counts include repos that only share the name (Temenos, for one, is mostly a banking platform). The node list was chosen; modularity says the clusters are not noise given those nodes, not that the selection was neutral. Every curated group is labelled as curated. **Circular links:** a measured link between two terms that share a search word counts the same repos twice; these are now dropped automatically (five so far: somatic experiencing and somatics, gematria and arithmogeometry, algorithmic management and unpaid care work, ley lines and world grid, the Global Consciousness Project and parapsychology). Thin evidence is shown, not hidden: union busting has 1 repo, company town 11, ASMR 7 in context, somatic experiencing 5, implicate order 1 in context. Repos that share only a name are rejected by hand where found (Indra's net, holographic universe). **Similar maps that already exist:** Anvaka's Map of GitHub; Crawford and Joler's Anatomy of an AI System and Calculating Empires; the CCRU Numogram; Crowley's 777 tables of correspondence; Mapa de la Conciencia. The map combines measured term resonance with curated esoteric and systems readings.
+**Searches:** public GitHub search, run one at a time, with exact-phrase queries only. A second search counts repos created since 1 January 2025 (70% for all of GitHub). **Coined terms** go on the map only when someone else's repo uses them in the same sense. Two were read by hand and accepted: mirror moment, somatic engineering. Temple dynamics was added by override and labeled as coined. **Placement:** measured constellations come from community detection; the Extraction, Inverted Prism and Temple are curated; the octagon is solved, not hand-placed; everyday work, kundalini and the frisson cluster were placed by hand or by the centre of their sourced links, and each panel says so. Broad or ambiguous words count a link only when the repo also uses the map's vocabulary ("in-context repos"); where none passed, the raw results were kept, so some measured links may include other senses. **The public export** removes the follow graph, the named people, the cases and the organisations, and credits "rosetta". **Limits:** Measured links show that terms appear together in repos, not that one causes the other. The corpus is public GitHub repos, which skews toward the Engine: people who push code write about AI tooling, while sound practice, contemplation and temple work live largely off GitHub, so the Lyre and the Witness will always look thinner than they are. Some GitHub counts include repos that only share the name (Temenos, for one, is mostly a banking platform). The node list was chosen; modularity says the clusters are not noise given those nodes, not that the selection was neutral. Every curated group is labelled as curated. **Circular links:** a measured link between two terms that share a search word counts the same repos twice; these are now dropped automatically (five so far: somatic experiencing and somatics, gematria and arithmogeometry, algorithmic management and unpaid care work, ley lines and world grid, the Global Consciousness Project and parapsychology). Thin evidence is shown, not hidden: union busting has 1 repo, company town 11, ASMR 7 in context, somatic experiencing 5, implicate order 1 in context. Repos that share only a name are rejected by hand where found (Indra's net, holographic universe). **Similar maps that already exist:** Anvaka's Map of GitHub; Crawford and Joler's Anatomy of an AI System and Calculating Empires; the CCRU Numogram; Crowley's 777 tables of correspondence; Mapa de la Conciencia. The map combines measured term resonance with curated esoteric and systems readings.
 
 ## 14. Sources
 
@@ -414,6 +430,10 @@ Garcia-Bernardo, Fichtner, Takes and Heemskerk, "Uncovering Offshore Financial C
 ### The three rooms
 
 Csikszentmihalyi, Flow (1990); Ericsson, Krampe and Tesch-Romer, "The Role of Deliberate Practice in the Acquisition of Expert Performance" (1993); Mattson, "Hormesis defined" (2008); Karageorghis and Priest, "Music in the exercise domain" (2012); Siebers et al., "Exercise-induced euphoria and anxiolysis do not depend on endogenous opioids in humans" (2021); Goffman, The Presentation of Self in Everyday Life (1959); Trivers, The Folly of Fools (2011); Edelman, The Symbolic Uses of Politics (1964); Debord, The Society of the Spectacle (1967); Tosi and Warmke, "Moral Grandstanding" (2016); Schoeller and Perlovsky, "Aesthetic Chills: Knowledge-Acquisition, Meaning-Making, and Aesthetic Emotions" (2016); Wassiliwizky et al., "The emotional power of poetry" (2017); DellaVigna and Malmendier, "Paying Not to Go to the Gym" (2006); Murphy v. NCAA (2018); Hassan, the BITE model; Stark, Coercive Control (2007)
+
+### The chalice and the sacrifice
+
+Robert de Boron, Joseph d'Arimathie (around 1200); Emma Jung and Marie-Louise von Franz, The Grail Legend (1960); Girard, Violence and the Sacred (1972); Alexander, "Meditations on Moloch" (2014); Lerner, Sacrifice Zones (2010); ILO and UNICEF, Child Labour: Global estimates 2020 (2021); FDA safety communication on young donor plasma (2019); Klein and Kernberg on splitting; Linehan, dialectical behavior therapy
 
 ### The fire and mimetics
 
